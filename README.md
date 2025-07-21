@@ -1,6 +1,6 @@
-##StampIt | PDF Stamping Software
+## StampIt | PDF Stamping Software
 
-##Project Overview
+## Project Overview
 **StampIt** is a high-performance desktop application engineered for efficient PDF management, with a core focus on secure and customizable PDF stamping. Developed using Java and the **Apache NetBeans IDE**, StampIt empowers users to brand and protect their digital documents with unparalleled ease and speed.
 
 
@@ -11,7 +11,7 @@
   * **Security & Authentication:** Enhance document security by embedding identifiable information.
   * **Intellectual Property Protection:** Safeguard copyrighted material with clear markings.
 
-##Technologies Used
+## Technologies Used
 **Languag**e: Java
 **IDE**: Apache NetBeans
 **PDF Library**: iText7-core 7.2.3
